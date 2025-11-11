@@ -6,6 +6,10 @@
 
 ## 视频内容
 
+
+<video src="https://github.com/user-attachments/assets/223d3447-45ab-443e-b4f5-bf793293d568" controls></video>
+
+
 - **漏洞类型**：`[请在此填写，例如：XSS / RCE / SQLi 等]`
 - **目标系统**：`[请在此填写，例如：Web 应用 v2.3.1]`
 - **演示步骤**：
